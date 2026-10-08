@@ -1,0 +1,51 @@
+employee_id,department,job_role,monthly_income,overtime,job_satisfaction,years_since_last_promotion,attrition_risk
+E0914,Technology,DevOps Engineer,42500.0,Yes,1,0,0.924
+E0725,Sales,Sales Manager,53500.0,Yes,1,0,0.91
+E0594,Finance,Accountant,88500.0,Yes,1,5,0.907
+E0836,Sales,Business Development,29000.0,Yes,3,3,0.898
+E0810,Operations,Supply Chain Analyst,39500.0,Yes,2,0,0.886
+E0464,Technology,DevOps Engineer,63500.0,Yes,1,1,0.88
+E0589,Finance,Financial Analyst,48500.0,Yes,1,0,0.874
+E0828,Sales,Sales Manager,52000.0,Yes,1,4,0.865
+E0759,Sales,Sales Manager,44000.0,Yes,1,2,0.864
+E0840,Finance,Financial Analyst,78000.0,Yes,3,0,0.863
+E0107,Technology,DevOps Engineer,74500.0,Yes,1,3,0.856
+E1112,Technology,QA Engineer,42500.0,Yes,1,0,0.843
+E1017,Technology,QA Engineer,44500.0,Yes,2,3,0.84
+E0410,Operations,Operations Associate,30500.0,Yes,2,0,0.838
+E0236,Sales,Sales Manager,43500.0,No,1,1,0.837
+E0526,Finance,Accountant,49500.0,Yes,1,2,0.836
+E0218,HR,HR Executive,39000.0,Yes,2,2,0.835
+E0024,Sales,Business Development,49000.0,Yes,1,1,0.831
+E0690,Operations,Supply Chain Analyst,34500.0,Yes,3,0,0.828
+E0645,Technology,Software Engineer,68500.0,Yes,2,1,0.828
+E0671,Technology,DevOps Engineer,75000.0,Yes,3,5,0.824
+E0169,Technology,Software Engineer,85500.0,Yes,1,2,0.818
+E1181,Technology,Software Engineer,57000.0,Yes,2,4,0.808
+E0653,HR,Recruiter,45000.0,Yes,1,1,0.805
+E0362,Technology,DevOps Engineer,90000.0,Yes,1,2,0.804
+E1197,Technology,QA Engineer,50000.0,Yes,4,1,0.804
+E0937,Operations,Supply Chain Analyst,38000.0,No,1,3,0.802
+E0744,Sales,Business Development,38500.0,Yes,3,0,0.802
+E0071,Finance,Financial Analyst,57500.0,Yes,2,3,0.801
+E0189,Sales,Sales Executive,31000.0,Yes,2,3,0.8
+E1151,Technology,QA Engineer,64500.0,Yes,2,1,0.797
+E0888,Sales,Sales Manager,41500.0,No,1,0,0.796
+E0897,Finance,Financial Analyst,83000.0,Yes,1,3,0.796
+E0666,Sales,Sales Manager,43500.0,Yes,3,2,0.794
+E1171,Sales,Sales Executive,41000.0,Yes,3,0,0.794
+E0347,Operations,Supply Chain Analyst,35500.0,Yes,2,2,0.792
+E0499,Technology,QA Engineer,80500.0,Yes,2,4,0.787
+E0291,Sales,Sales Executive,48500.0,Yes,3,0,0.787
+E0762,Technology,Software Engineer,81500.0,Yes,3,1,0.786
+E0524,Technology,Software Engineer,91500.0,Yes,3,0,0.786
+E0371,Sales,Sales Executive,40500.0,Yes,4,4,0.785
+E0452,Finance,Financial Analyst,30500.0,Yes,3,1,0.784
+E0247,Sales,Sales Executive,41500.0,Yes,4,0,0.783
+E1117,Sales,Sales Executive,53500.0,No,1,0,0.782
+E1191,Sales,Sales Manager,24500.0,Yes,4,1,0.782
+E0999,Operations,Supply Chain Analyst,31000.0,Yes,4,2,0.779
+E1353,Sales,Sales Executive,36000.0,Yes,4,1,0.777
+E0777,Technology,Software Engineer,63500.0,Yes,3,0,0.775
+E1298,HR,HR Executive,42750.0,Yes,1,3,0.774
+E1403,Operations,Supply Chain Analyst,37000.0,No,1,3,0.773

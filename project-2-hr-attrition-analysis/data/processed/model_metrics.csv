@@ -1,0 +1,4 @@
+metric,value
+roc_auc,0.696
+recall_left,0.606
+precision_left,0.4

@@ -1,0 +1,51 @@
+employee_id,department,job_role,monthly_income,risk_points
+E1151,Technology,QA Engineer,64500.0,5
+E0119,Technology,DevOps Engineer,64000.0,5
+E0464,Technology,DevOps Engineer,63500.0,5
+E0391,Finance,Financial Analyst,55000.0,5
+E0416,Finance,Accountant,52000.0,5
+E0526,Finance,Accountant,49500.0,5
+E0589,Finance,Financial Analyst,48500.0,5
+E0759,Sales,Sales Manager,44000.0,5
+E0914,Technology,DevOps Engineer,42500.0,5
+E0218,HR,HR Executive,39000.0,5
+E0347,Operations,Supply Chain Analyst,35500.0,5
+E0904,Operations,Operations Associate,35000.0,5
+E0410,Operations,Operations Associate,30500.0,5
+E0181,Operations,Operations Associate,29500.0,5
+E0373,Operations,Supply Chain Analyst,26000.0,5
+E0028,Operations,Supply Chain Analyst,22500.0,5
+E0458,Technology,Data Analyst,117500.0,4
+E0714,HR,Recruiter,117500.0,4
+E0212,Technology,Data Analyst,111500.0,4
+E0095,Technology,QA Engineer,101000.0,4
+E0594,Finance,Accountant,88500.0,4
+E1170,Technology,Software Engineer,86500.0,4
+E0204,Sales,Sales Manager,86000.0,4
+E0169,Technology,Software Engineer,85500.0,4
+E1463,Sales,Business Development,75000.0,4
+E0006,Operations,Operations Associate,73500.0,4
+E1240,HR,HR Executive,73000.0,4
+E1107,Sales,Sales Executive,72500.0,4
+E0145,Technology,QA Engineer,70000.0,4
+E0645,Technology,Software Engineer,68500.0,4
+E0010,Technology,Data Analyst,66000.0,4
+E0961,Technology,DevOps Engineer,66000.0,4
+E0777,Technology,Software Engineer,63500.0,4
+E0039,Operations,Supply Chain Analyst,62500.0,4
+E0231,Technology,QA Engineer,61500.0,4
+E0685,Sales,Business Development,60000.0,4
+E1228,Technology,QA Engineer,58500.0,4
+E1181,Technology,Software Engineer,57000.0,4
+E1059,Technology,QA Engineer,56500.0,4
+E0692,Sales,Sales Manager,55500.0,4
+E0834,Finance,Financial Analyst,54000.0,4
+E0725,Sales,Sales Manager,53500.0,4
+E0561,Technology,Software Engineer,52500.0,4
+E0993,Finance,Accountant,52500.0,4
+E0699,Finance,Financial Analyst,52000.0,4
+E0258,HR,HR Executive,51000.0,4
+E0982,Finance,Accountant,50500.0,4
+E1197,Technology,QA Engineer,50000.0,4
+E0014,Technology,DevOps Engineer,49000.0,4
+E0024,Sales,Business Development,49000.0,4

@@ -1,0 +1,97 @@
+product_id,category,sub_category,product_name,unit_cost,unit_price
+P0001,Electronics,Mobiles,Mobiles Item 1,11026.0,12410.0
+P0002,Electronics,Mobiles,Mobiles Item 2,27652.0,31440.0
+P0003,Electronics,Mobiles,Mobiles Item 3,31090.0,32160.0
+P0004,Electronics,Mobiles,Mobiles Item 4,18490.0,21610.0
+P0005,Electronics,Mobiles,Mobiles Item 5,47905.0,56250.0
+P0006,Electronics,Mobiles,Mobiles Item 6,56305.0,59390.0
+P0007,Electronics,Mobiles,Mobiles Item 7,11748.0,12600.0
+P0008,Electronics,Mobiles,Mobiles Item 8,10094.0,11040.0
+P0009,Electronics,Headphones,Headphones Item 1,7229.0,7930.0
+P0010,Electronics,Headphones,Headphones Item 2,8819.0,10100.0
+P0011,Electronics,Headphones,Headphones Item 3,13176.0,14130.0
+P0012,Electronics,Headphones,Headphones Item 4,9754.0,10370.0
+P0013,Electronics,Headphones,Headphones Item 5,8977.0,11990.0
+P0014,Electronics,Headphones,Headphones Item 6,9040.0,10710.0
+P0015,Electronics,Headphones,Headphones Item 7,11145.0,11490.0
+P0016,Electronics,Headphones,Headphones Item 8,1411.0,1730.0
+P0017,Electronics,Laptops,Laptops Item 1,104278.0,113970.0
+P0018,Electronics,Laptops,Laptops Item 2,72063.0,77230.0
+P0019,Electronics,Laptops,Laptops Item 3,102743.0,116420.0
+P0020,Electronics,Laptops,Laptops Item 4,56316.0,61410.0
+P0021,Electronics,Laptops,Laptops Item 5,42643.0,49940.0
+P0022,Electronics,Laptops,Laptops Item 6,28535.0,32100.0
+P0023,Electronics,Laptops,Laptops Item 7,71509.0,80610.0
+P0024,Electronics,Laptops,Laptops Item 8,75713.0,88400.0
+P0025,Fashion,Men Clothing,Men Clothing Item 1,1059.0,1900.0
+P0026,Fashion,Men Clothing,Men Clothing Item 2,271.0,460.0
+P0027,Fashion,Men Clothing,Men Clothing Item 3,778.0,1520.0
+P0028,Fashion,Men Clothing,Men Clothing Item 4,248.0,470.0
+P0029,Fashion,Men Clothing,Men Clothing Item 5,1534.0,2800.0
+P0030,Fashion,Men Clothing,Men Clothing Item 6,1897.0,3770.0
+P0031,Fashion,Men Clothing,Men Clothing Item 7,1354.0,2440.0
+P0032,Fashion,Men Clothing,Men Clothing Item 8,1309.0,2430.0
+P0033,Fashion,Women Clothing,Women Clothing Item 1,1538.0,2870.0
+P0034,Fashion,Women Clothing,Women Clothing Item 2,1672.0,2850.0
+P0035,Fashion,Women Clothing,Women Clothing Item 3,1741.0,4270.0
+P0036,Fashion,Women Clothing,Women Clothing Item 4,2585.0,4730.0
+P0037,Fashion,Women Clothing,Women Clothing Item 5,1987.0,3460.0
+P0038,Fashion,Women Clothing,Women Clothing Item 6,2615.0,4480.0
+P0039,Fashion,Women Clothing,Women Clothing Item 7,1252.0,1990.0
+P0040,Fashion,Women Clothing,Women Clothing Item 8,3590.0,5650.0
+P0041,Fashion,Footwear,Footwear Item 1,1497.0,3650.0
+P0042,Fashion,Footwear,Footwear Item 2,2058.0,3250.0
+P0043,Fashion,Footwear,Footwear Item 3,1442.0,2460.0
+P0044,Fashion,Footwear,Footwear Item 4,2815.0,4990.0
+P0045,Fashion,Footwear,Footwear Item 5,3180.0,5690.0
+P0046,Fashion,Footwear,Footwear Item 6,2790.0,4970.0
+P0047,Fashion,Footwear,Footwear Item 7,2677.0,4780.0
+P0048,Fashion,Footwear,Footwear Item 8,2804.0,5290.0
+P0049,Home & Kitchen,Cookware,Cookware Item 1,1018.0,1410.0
+P0050,Home & Kitchen,Cookware,Cookware Item 2,1568.0,2290.0
+P0051,Home & Kitchen,Cookware,Cookware Item 3,1421.0,2020.0
+P0052,Home & Kitchen,Cookware,Cookware Item 4,2053.0,3140.0
+P0053,Home & Kitchen,Cookware,Cookware Item 5,2667.0,4080.0
+P0054,Home & Kitchen,Cookware,Cookware Item 6,2614.0,3620.0
+P0055,Home & Kitchen,Cookware,Cookware Item 7,1704.0,2510.0
+P0056,Home & Kitchen,Cookware,Cookware Item 8,2246.0,3480.0
+P0057,Home & Kitchen,Furniture,Furniture Item 1,28374.0,38070.0
+P0058,Home & Kitchen,Furniture,Furniture Item 2,16477.0,23420.0
+P0059,Home & Kitchen,Furniture,Furniture Item 3,17413.0,25560.0
+P0060,Home & Kitchen,Furniture,Furniture Item 4,12016.0,16080.0
+P0061,Home & Kitchen,Furniture,Furniture Item 5,3799.0,6240.0
+P0062,Home & Kitchen,Furniture,Furniture Item 6,28630.0,39960.0
+P0063,Home & Kitchen,Furniture,Furniture Item 7,1265.0,2070.0
+P0064,Home & Kitchen,Furniture,Furniture Item 8,1998.0,2760.0
+P0065,Home & Kitchen,Decor,Decor Item 1,3134.0,4360.0
+P0066,Home & Kitchen,Decor,Decor Item 2,3351.0,4330.0
+P0067,Home & Kitchen,Decor,Decor Item 3,3914.0,5850.0
+P0068,Home & Kitchen,Decor,Decor Item 4,4456.0,5920.0
+P0069,Home & Kitchen,Decor,Decor Item 5,3927.0,5590.0
+P0070,Home & Kitchen,Decor,Decor Item 6,760.0,1030.0
+P0071,Home & Kitchen,Decor,Decor Item 7,2185.0,3190.0
+P0072,Home & Kitchen,Decor,Decor Item 8,4622.0,5560.0
+P0073,Grocery,Staples,Staples Item 1,236.0,280.0
+P0074,Grocery,Staples,Staples Item 2,124.0,150.0
+P0075,Grocery,Staples,Staples Item 3,138.0,160.0
+P0076,Grocery,Staples,Staples Item 4,500.0,580.0
+P0077,Grocery,Staples,Staples Item 5,287.0,330.0
+P0078,Grocery,Staples,Staples Item 6,563.0,660.0
+P0079,Grocery,Staples,Staples Item 7,355.0,460.0
+P0080,Grocery,Staples,Staples Item 8,345.0,430.0
+P0081,Grocery,Snacks,Snacks Item 1,299.0,350.0
+P0082,Grocery,Snacks,Snacks Item 2,147.0,170.0
+P0083,Grocery,Snacks,Snacks Item 3,178.0,220.0
+P0084,Grocery,Snacks,Snacks Item 4,226.0,270.0
+P0085,Grocery,Snacks,Snacks Item 5,90.0,100.0
+P0086,Grocery,Snacks,Snacks Item 6,129.0,150.0
+P0087,Grocery,Snacks,Snacks Item 7,78.0,100.0
+P0088,Grocery,Snacks,Snacks Item 8,181.0,220.0
+P0089,Grocery,Beverages,Beverages Item 1,95.0,110.0
+P0090,Grocery,Beverages,Beverages Item 2,303.0,330.0
+P0091,Grocery,Beverages,Beverages Item 3,267.0,320.0
+P0092,Grocery,Beverages,Beverages Item 4,262.0,310.0
+P0093,Grocery,Beverages,Beverages Item 5,197.0,230.0
+P0094,Grocery,Beverages,Beverages Item 6,250.0,310.0
+P0095,Grocery,Beverages,Beverages Item 7,57.0,70.0
+P0096,Grocery,Beverages,Beverages Item 8,128.0,140.0

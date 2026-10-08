@@ -1,0 +1,5 @@
+test,statistic,p_value,significant_at_5pct
+Chi-square: attrition vs overtime,86.9,1.14e-20,True
+Chi-square: attrition vs department,3.68,4.50e-01,False
+Chi-square: attrition vs job_satisfaction,36.76,5.17e-08,True
+"Mann-Whitney U: income, leavers vs stayers",180523.0,2.08e-07,True

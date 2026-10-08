@@ -1,0 +1,5 @@
+region,customers,orders,revenue,avg_order_value,margin_pct
+South,386,3661,119727519.0,32704.0,9.3
+West,355,3161,100164450.0,31688.0,9.1
+North,263,2289,67001873.0,29271.0,8.6
+East,167,1536,47959238.0,31223.0,8.6
